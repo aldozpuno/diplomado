@@ -1,0 +1,2 @@
+# diplomado
+diplomado de capacitación 
